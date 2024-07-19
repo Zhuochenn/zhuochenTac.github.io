@@ -27,5 +27,5 @@ Before starting my Ph.D., I spent a year as a fully-funded visiting student at t
 - Oct 2023: I start my Phd at robot perception lab in King's College London under supervision by Prof.Shan Luo.
 - Feb 2023: I receive fullly-funded offer for Phd program in Internation Max Plank Research School for Intelligent System and King's College London.
 - Dec 2022: I obtain my Master Degree with Distingction.
-- Oct 2022: I receive National Scholarship for Postgraduate from Ministry of Education, China.
+- Oct 2022: I am awarded National Scholarship for Postgraduate from Ministry of Education, China.
 - Jan 2022: I start as a fullly-funded visiting research student at National University of Singapore under supervision by Prof. Chew-CheeMeng.
