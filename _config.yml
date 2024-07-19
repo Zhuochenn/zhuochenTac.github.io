@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhuo Chen/Personal Homepage"
+title                    : "Zhuo Chen"
 title_separator          : "-"
 name                     : &name "Zhuo Chen"
 description              : &description "A phd student in tactile robotics from King's College London"
