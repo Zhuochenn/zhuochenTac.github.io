@@ -9,15 +9,21 @@ redirect_from:
 
 
 # About me
+------
 
 I am a second-year Ph.D. student in the Robot Perception Lab, supervised by Prof. [Shan Luo](https://shanluo.github.io/).  I am passionate about endowing robots with generalizable, explainable tactile sensing abilities like humans. In my Ph.D., I mainly focus on addressing challenges in vision-based tactile sensors and contact-rich robot grasping/manipulation tasks with learning-based methods. Before starting my Ph.D., I have three years of experience in simulation, fabrication, and verification of flexible tactile sensors.
 
 You can find my CV here: [CV](../assets/Curriculum_Vitae.pdf), [Email](zhuo.7.chen@kcl.ac.uk)
 
 # Education
+-------
+**2023--2027** 		**King's College London** 								**Phd student**
 
-2023--2027 King's College London Phd student
-2023--2027 National University of Singapore Phd student
+**2022--2023**	 	**National University of Singapore** 	   	**Visiting research student**
+
+**2019--2022**	 	**Xiamen University** 	   							   **Master Degreee**
+
+**2015--2019**	 	**Northeastern University, China**	     	 **Bachelor's Degrese**
 
 
 # News
@@ -26,4 +32,4 @@ You can find my CV here: [CV](../assets/Curriculum_Vitae.pdf), [Email](zhuo.7.ch
 - May 2024: I am attending ICRA 2024 in YOKOHAMA, Japan with one extended abstract accpected by ICRA 2024 ViTac-Workshop
 - Jan 2024: I am attending 5th UK Manipulation Workshop in Oxford University
 - Oct 2023: I start my Phd at robot perception lab in King's College London
-- Feb 2023: I received full-funded offer for Phd program from Internation Max Plank Research School for Intelligent System and King's College London
+- Feb 2023: I received full-funded offer for Phd program in Internation Max Plank Research School for Intelligent System and King's College London
