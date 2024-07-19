@@ -21,8 +21,11 @@ Before starting my Ph.D., I spent a year as a fully-funded visiting student at t
 
 # News
 ------
-- June 2024: One paper "Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors" is accepted to IROS 2024 as oral presentation!
-- May 2024: I am attending ICRA 2024 in YOKOHAMA, Japan with one extended abstract accpected by ICRA 2024 ViTac-Workshop
-- Jan 2024: I am attending 5th UK Manipulation Workshop in Oxford University
-- Oct 2023: I start my Phd at robot perception lab in King's College London
-- Feb 2023: I received full-funded offer for Phd program in Internation Max Plank Research School for Intelligent System and King's College London
+- June 2024: One paper "Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors" is accepted to IROS 2024 as oral presentation! Many thanks to Shan, Ni and Jiaqi !
+- May 2024: I am attending ICRA 2024 in YOKOHAMA, Japan with one extended abstract accpected by ICRA 2024 ViTac-workshop.
+- Jan 2024: I am attending 5th UK Manipulation Workshop in Oxford University with poster presentation.
+- Oct 2023: I start my Phd at robot perception lab in King's College London under supervision by Prof.Shan Luo.
+- Feb 2023: I receive full-funded offer for Phd program in Internation Max Plank Research School for Intelligent System and King's College London.
+- Dec 2022: I obtain my Master Degree with Distingction.
+- Oct 2022: I receive National Scholarship for Postgraduate from Ministry of Education, China.
+- Jan 2022: I start as a full-funed visiting research student at National University of Singapore under supervision by Prof. Chew-CheeMeng.
