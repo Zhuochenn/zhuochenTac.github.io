@@ -11,8 +11,9 @@ redirect_from:
 # About me
 ------
 
-I am a second-year Ph.D. student in the Robot Perception Lab, supervised by Prof. [Shan Luo](https://shanluo.github.io/).  I am passionate about endowing robots with generalizable, explainable tactile sensing abilities like humans. In my Ph.D., I mainly focus on addressing challenges in vision-based tactile sensors and contact-rich robot grasping/manipulation tasks with learning-based methods. Before starting my Ph.D., I have three years of experience in simulation, fabrication, and verification of flexible tactile sensors.
+I am a Ph.D. student in the Robot Perception Lab, supervised by Prof. [Shan Luo](https://shanluo.github.io/). My passion lies in endowing robots with generalizable and explainable tactile sensing abilities akin to those of humans. My Ph.D. research primarily focuses on overcoming challenges in vision-based tactile sensors and contact-rich robot grasping and manipulation tasks using learning-based methods, including generative learning, transfer learning, and reinforcement learning.
 
+Before starting my Ph.D., I spent a year as a fully-funded visiting student at the National University of Singapore, conducting research on Manta Ray robots. I obtained my master's degree from Xiamen University, where my research interests included the simulation, fabrication, and verification of flexible tactile sensors and their applications in robotics.
 
 # Contact
 ------
