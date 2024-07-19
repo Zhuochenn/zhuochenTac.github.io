@@ -9,9 +9,9 @@ author_profile: true
   <div class="wordwrap">Please find my citations on <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
 {% endif %}
 
+<br/>
 
 # Ph.D.
-----
 ## 2024
 
 **Zhuo Chen**, Ni Ou, et al. "Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors." *2024 IEEE/RSJ International Conference on Intelligent Robots and Systems* (Accepted, oral presentation).
@@ -21,7 +21,6 @@ Ni Ou, **Zhuo Chen**, Shan Luo. "Marker or Markerless? Mode-Switchable Optical T
 -------
 
 # Master 
------
 ## 2023
 
 Yigen W, Zhongbao W, Jinbin X, **Zhuo C**, et al. "Direct Writing of Liquid Metal onto an Electrospun Graphene Oxide Composite Polymer Nanofiber Membrane for Robust and Stretchable Electrodes." *Advanced Materials Technologies*, 2023, 8(9): 2201935
