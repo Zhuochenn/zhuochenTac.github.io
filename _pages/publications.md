@@ -18,6 +18,8 @@ author_profile: true
 
 Ni Ou, **Zhuo Chen**, Shan Luo. "Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks." *IEEE Robotics and Automation Letters*, 2024 
 
+**Zhuo Chen**, Ni Ou, et al. "Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors." * ICRA 2024 ViTac-Workshop.
+
 -------
 
 # Master 
