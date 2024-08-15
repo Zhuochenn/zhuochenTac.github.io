@@ -16,7 +16,7 @@ author_profile: true
 
 **Zhuo Chen**, Ni Ou, et al. "Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors." *2024 IEEE/RSJ International Conference on Intelligent Robots and Systems* (Accepted, oral presentation).
 
-Ni Ou, **Zhuo Chen**, Shan Luo. "Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks." *IEEE Robotics and Automation Letters*, 2024 (Under Revision)
+Ni Ou, **Zhuo Chen**, Shan Luo. "Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks." *IEEE Robotics and Automation Letters*, 2024 
 
 -------
 
