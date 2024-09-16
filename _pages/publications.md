@@ -15,15 +15,15 @@ author_profile: true
 ## 2024
 
 **Zhuo Chen**, Ni Ou, Xuyang Zhang, Shan Luo. "TransForce: Transferable Force Prediction for Vision-based Tactile Sensors with Sequential Image Translation." (submitted to ICRA 2025).
-![ICRA2025](/images/ICRA2025.jpg)
+![ICRA2025](../images/ICRA2025.jpg)
 
 **Zhuo Chen**, Ni Ou, Jiaqi Jiang, Shan Luo. "Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors." *2024 IEEE/RSJ International Conference on Intelligent Robots and Systems* (Accepted, oral presentation).
 [Download](https://arxiv.org/pdf/2407.14380)
-![IROS2024](/images/IROS2024.jpg)
+![IROS2024](../images/IROS2024.jpg)
 
-Ni Ou, **Zhuo Chen**, Shan Luo. "Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks." *IEEE Robotics and Automation Letters*, 2024 
+Ni Ou, **Zhuo Chen**, Shan Luo. "Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks." *IEEE Robotics and Automation Letters*, 2024. 
 [Download](https://ieeexplore.ieee.org/abstract/document/10643674)
-![RA-L2024](/images/RA-L2024.jpg)
+![RA-L2024](../images/RA-L2024.jpg)
 
 **Zhuo Chen**, Ni Ou, Jiaqi Jiang, Shan Luo. "Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors." *2024 IEEE International Conference on Robotics and Automation ViTac-Workshop*.
 [Download](https://arxiv.org/pdf/2407.14380)
