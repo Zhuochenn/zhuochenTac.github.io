@@ -66,10 +66,10 @@ author_profile: true
 <img src="https://i.imgur.com/osnQHKO.gif" width="280">
 
 
-[3] Dezhi W, **Zhuo C**, Zhenyin H, et al. "Research Progresses of Micro-area Induction Heating Technology in Micro/Nano Systems." *China Mechanical Engineering*, 2022, 33(01): 2. (First author, supervisor)
+[3] Dezhi W*, **Zhuo C**, Zhenyin H, et al. "Research Progresses of Micro-area Induction Heating Technology in Micro/Nano Systems." *China Mechanical Engineering*, 2022, 33(01): 2. (*supervisor)
 [Download](https://qikan.cmes.org/zgjxgc/EN/10.3969/j.issn.1004-132X.2022.01.001)
 
-[2] Dezhi W, Xiangshu C, **Zhuo C** et al. "A flexible tactile sensor that uses polyimide/graphene oxide nanofiber as dielectric membrane for vertical and lateral force detection." *Nanotechnology*, 2022, 33(40): 405205 (First author, supervisor)
+[2] Dezhi W*, Xiangshu C, **Zhuo C** et al. "A flexible tactile sensor that uses polyimide/graphene oxide nanofiber as dielectric membrane for vertical and lateral force detection." *Nanotechnology*, 2022, 33(40): 405205 (*supervisor)
 [Download](https://iopscience.iop.org/article/10.1088/1361-6528/ac73a4)
 <br/>
 <img src="https://i.imgur.com/3OcpBi0.jpeg" width="600">
