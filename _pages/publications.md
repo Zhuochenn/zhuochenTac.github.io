@@ -70,7 +70,7 @@ author_profile: true
 [2] Dezhi W, Xiangshu C, **Zhuo C** et al. "A flexible tactile sensor that uses polyimide/graphene oxide nanofiber as dielectric membrane for vertical and lateral force detection." *Nanotechnology*, 2022, 33(40): 405205 (First author, supervisor)
 [Download](https://iopscience.iop.org/article/10.1088/1361-6528/ac73a4)
 <br/>
-<img src="https://i.imgur.com/3OcpBi0.jpeg" width="400">
+<img src="https://i.imgur.com/3OcpBi0.jpeg" width="600">
 
 
 [1] Yigen W, Zhongbao W, Guolong Z, Zhenjin X, Zhenyin H, **Zhuo C**, et al. "Printing of tactile sensors upon the surface of pneumatic soft gripper by direct writing and electrospraying to enable intelligent grasping." *Advanced Engineering Materials*, 2022, 24(12), p.2200704.
