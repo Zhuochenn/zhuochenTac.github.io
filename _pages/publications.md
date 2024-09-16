@@ -53,10 +53,8 @@ Yigen W,  Guolong Z, Jinbin X, Jiahong Z, Xinqi C, Zhongbao W, **Zhuo c**, et al
 <img src="https://i.imgur.com/fwiGtR1.png" width="400">
 
 
-Z Chen, G Wang, Y Yang, J Mao, **Z Chen**, et. al. "Fabrication of flexible organic field effect transistors with high carrier mobility via sheath gas-assisted direct writing Poly (3-hexylthiophene) solution." *Organic Electronics*, 2023, 119: 106813
-[Download](https://www.sciencedirect.com/science/article/pii/S0924424722007403)
-<br/>
-<img src="https://i.imgur.com/fwiGtR1.png" width="400">
+Z Chen, G Wang, Y Yang, J Mao, **Z Chen**, et. al. "Fabrication of flexible organic field effect transistors with high carrier mobility via sheath gas-assisted direct writing Poly (3-hexylthiophene) solution." *Organic Electronics*, 2023, 119: 106813.
+[Download](https://www.sciencedirect.com/science/article/pii/S1566119923000691)
 
 ## 2022
 
