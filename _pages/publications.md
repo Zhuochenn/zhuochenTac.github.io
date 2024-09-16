@@ -15,9 +15,7 @@ author_profile: true
 ## 2024
 
 **Zhuo Chen**, Ni Ou, Xuyang Zhang, Shan Luo. "TransForce: Transferable Force Prediction for Vision-based Tactile Sensors with Sequential Image Translation." (submitted to ICRA 2025).
-<div style="width: 30%; height: 30%">
-  ![](https://i.imgur.com/asJqZ2a.jpeg)
-</div>
+<img src="https://i.imgur.com/asJqZ2a.jpeg" width="200">
 
 ![ICRA2025](https://i.imgur.com/asJqZ2a.jpeg)
 
