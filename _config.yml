@@ -98,7 +98,7 @@ social:
 # Analytics
 analytics:
   provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
+  google-analytics-4:
     tracking_id          : G-9K9DBM75EW
 
 
