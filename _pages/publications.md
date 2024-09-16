@@ -17,6 +17,7 @@ author_profile: true
 [12] **Zhuo Chen**, Ni Ou, Xuyang Zhang, Shan Luo. "TransForce: Transferable Force Prediction for Vision-based Tactile Sensors with Sequential Image Translation." (submitted to ICRA 2025).
 <br/>
 <img src="https://i.imgur.com/asJqZ2a.jpeg" width="400">
+<img src="https://i.imgur.com/NPtRMDX.gif" width="400">
 
 
 [11] **Zhuo Chen**, Ni Ou, Jiaqi Jiang, Shan Luo. "Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors." *2024 IEEE/RSJ International Conference on Intelligent Robots and Systems* (Accepted, oral presentation). [Download](https://arxiv.org/pdf/2407.14380)
