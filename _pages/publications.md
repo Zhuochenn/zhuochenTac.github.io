@@ -47,7 +47,7 @@ Hang Y, Qibin Z, Jiawei L, **Zhuo C**, et al. "One-step fabrication of high-perf
 <br/>
 <img src="https://i.imgur.com/E5sOcDR.png" width="400">
 
-Yigen W,  Guolong Z, Jinbin X, Jiahong Z, Xinqi C, Zhongbao W, **Zhuo c**, et al. "A bioinspired multi-knuckle dexterous pneumatic soft finger." *Sensors and Actuators A: Physical*, 350 (2023): 114105.
+Yigen W,  Guolong Z, Jinbin X, Jiahong Z, Xinqi C, Zhongbao W, **Zhuo C**, et al. "A bioinspired multi-knuckle dexterous pneumatic soft finger." *Sensors and Actuators A: Physical*, 350 (2023): 114105.
 [Download](https://www.sciencedirect.com/science/article/pii/S0924424722007403)
 <br/>
 <img src="https://i.imgur.com/fwiGtR1.png" width="400">
