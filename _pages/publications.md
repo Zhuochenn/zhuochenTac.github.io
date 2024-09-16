@@ -26,7 +26,7 @@ author_profile: true
 [10] Ni Ou, **Zhuo Chen**, Shan Luo. "Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks." *IEEE Robotics and Automation Letters*, 2024. 
 [Download](https://ieeexplore.ieee.org/abstract/document/10643674)
 <br/>
-<img src="https://i.imgur.com/azigKU3.jpeg" width="400">
+<img src="https://i.imgur.com/azigKU3.jpeg" width="600">
 
 [9] **Zhuo Chen**, Ni Ou, Jiaqi Jiang, Shan Luo. "Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors." *2024 IEEE International Conference on Robotics and Automation ViTac-Workshop*.
 [Download](https://arxiv.org/pdf/2407.14380)
@@ -61,7 +61,7 @@ author_profile: true
 [4] **Zhuo C**, Yang Z, Bin Z, et al. "Laser-sculptured hierarchical spinous structures for ultra-high-sensitivity iontronic sensors with a broad operation range." *ACS Applied Materials & Interfaces*, 2022: 19672-19682.
 [Download](https://pubs.acs.org/doi/abs/10.1021/acsami.2c01356)
 <br/>
-<img src="https://i.imgur.com/h4jbL3I.jpeg" width="400">
+<img src="https://i.imgur.com/h4jbL3I.jpeg" width="600">
 
 
 [3] Dezhi W, **Zhuo C**, Zhenyin H, et al. "Research Progresses of Micro-area Induction Heating Technology in Micro/Nano Systems." *China Mechanical Engineering*, 2022, 33(01): 2. (First author, supervisor)
