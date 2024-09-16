@@ -63,7 +63,7 @@ author_profile: true
 [Download](https://pubs.acs.org/doi/abs/10.1021/acsami.2c01356)
 <br/>
 <img src="https://i.imgur.com/h4jbL3I.jpeg" width="600">
-<img src="https://i.imgur.com/osnQHKO.gif" width="200">
+<img src="https://i.imgur.com/osnQHKO.gif" width="300">
 
 
 [3] Dezhi W, **Zhuo C**, Zhenyin H, et al. "Research Progresses of Micro-area Induction Heating Technology in Micro/Nano Systems." *China Mechanical Engineering*, 2022, 33(01): 2. (First author, supervisor)
