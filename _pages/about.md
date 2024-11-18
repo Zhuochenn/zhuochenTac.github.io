@@ -33,7 +33,7 @@ Before starting my Ph.D., I spent a year as a fully-funded visiting student at t
 ------
 - Nov 2024: I am starting a new position as research intern in Huawei Noah's Ark Lab, London!
 - Nov 2024: I am joining local organising committee for [the 6th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/)!
-- Oct 2024: One paper submiited to ICRA 2025, and one paper submitted to CVPR 2025!
+- Oct 2024: One paper submitted to ICRA 2025, and one paper submitted to CVPR 2025!
 - Oct 2024: I am attending 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems with oral presentation in Abu Dhabi!
 - Aug 2024: One paper "Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks." is accepted to IEEE Robotics and Automation Letters (R-AL)! Congratulations to Ni !
 - June 2024: One paper "Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors" is accepted to IROS 2024 as oral presentation! Many thanks to Shan, Ni and Jiaqi !
