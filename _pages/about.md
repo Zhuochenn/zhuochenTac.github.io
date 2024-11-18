@@ -31,12 +31,15 @@ Before starting my Ph.D., I spent a year as a fully-funded visiting student at t
 
 # News
 ------
+- Nov 2024: I am starting a new position as research intern at Huawei Noah's Ark Lab, London!
+- Nov 2024: I am joining local organising committee for the 6th UK Robot Manipulation Workshop!
+- Oct 2024: One paper submiited to ICRA 2025, and one paper submitted to CVPR 2025!
 - Oct 2024: I am attending 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems with oral presentation in Abu Dhabi!
-- Aug 2024:  One paper "Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks." is accepted to IEEE Robotics and Automation Letters (R-AL)! Congratulations to Ni !
+- Aug 2024: One paper "Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks." is accepted to IEEE Robotics and Automation Letters (R-AL)! Congratulations to Ni !
 - June 2024: One paper "Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors" is accepted to IROS 2024 as oral presentation! Many thanks to Shan, Ni and Jiaqi !
-- May 2024: I am attending ICRA 2024 in YOKOHAMA, Japan with one extended abstract accpected by ICRA 2024 ViTac-workshop.
-- Jan 2024: I am attending 5th UK Manipulation Workshop in Oxford University with poster presentation.
-- Oct 2023: I start my Phd at robot perception lab in King's College London under supervision by Prof.Shan Luo.
+- May 2024: I am attending ICRA 2024 in YOKOHAMA, Japan with one extended abstract "Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors" accpected by ICRA 2024 ViTac-workshop.
+- Jan 2024: I am attending 5th UK Manipulation Workshop in Oxford University with poster presentation of soft tactile sensors.
+- Oct 2023: I start my Phd at robot perception lab at King's College London under supervision by Dr. Shan Luo.
 - Feb 2023: I receive fullly-funded offer for Phd program in International Max Plank Research School for Intelligent System (IMPRS-IS) and King's College London.
 - Dec 2022: I obtain my Master Degree with Distingction.
 - Oct 2022: I am awarded National Scholarship for Postgraduate from Ministry of Education, China.
