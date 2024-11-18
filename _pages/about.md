@@ -21,7 +21,7 @@ redirect_from:
 # About me
 ------
 
-I am a Ph.D. student in the Robot Perception Lab, supervised by Prof. [Shan Luo](https://shanluo.github.io/). My passion lies in endowing robots with generalizable and explainable tactile sensing abilities akin to those of humans. My Ph.D. research primarily focuses on overcoming challenges in vision-based tactile sensors and contact-rich robot grasping and manipulation tasks using learning-based methods, including generative learning, transfer learning, and reinforcement learning.
+I am a Ph.D. student in the Robot Perception Lab, supervised by Dr. [Shan Luo](https://shanluo.github.io/). I am also a researh intern in Huawei Noah's Ark Lab, London, supervised by Dr. [Jiankang Deng](https://jiankangdeng.github.io/). My passion lies in endowing robots with generalizable and explainable tactile sensing abilities akin to those of humans. My Ph.D. research primarily focuses on overcoming challenges in vision-based tactile sensors and contact-rich robot grasping and manipulation tasks using learning-based methods, including generative learning, transfer learning, and reinforcement learning.
 
 Before starting my Ph.D., I spent a year as a fully-funded visiting student at the National University of Singapore, conducting research on Manta Ray robots. I obtained my master's degree from Xiamen University, where my research interests included the simulation, fabrication, and verification of flexible tactile sensors and their applications in robotics.
 
@@ -31,7 +31,7 @@ Before starting my Ph.D., I spent a year as a fully-funded visiting student at t
 
 # News
 ------
-- Nov 2024: I am starting a new position as research intern at Huawei Noah's Ark Lab, London!
+- Nov 2024: I am starting a new position as research intern in Huawei Noah's Ark Lab, London!
 - Nov 2024: I am joining local organising committee for the 6th UK Robot Manipulation Workshop!
 - Oct 2024: One paper submiited to ICRA 2025, and one paper submitted to CVPR 2025!
 - Oct 2024: I am attending 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems with oral presentation in Abu Dhabi!
