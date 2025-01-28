@@ -33,7 +33,7 @@ Before starting my Ph.D., I spent a year as a fully-funded visiting student at t
 ------
 - Jan 2025: Two papers are accepted to ICRA 2025 (1 x ICRA,1 x RA-L). See you in Atlanta, USA!
 - Jan 2025: Our [the 6th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/) has been successfully hosted at King's! 
-- Jan 2025: I successfully passed my PhD Upgrade viva after fourteen months in my PhD program. 
+- Dec 2024: I successfully passed my PhD Upgrade viva after fourteen months in my PhD program. 
 - Nov 2024: I am starting a new position as research intern in Huawei Noah's Ark Lab, London!
 - Nov 2024: I am joining local organising committee for [the 6th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/)!
 - Oct 2024: I am attending 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems with oral presentation in Abu Dhabi!
